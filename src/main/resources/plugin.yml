@@ -1,0 +1,3 @@
+name: DTAutoTNT
+version: ${project.version}
+main: su.dreamtime.dtautotnt.DTAutoTNT
